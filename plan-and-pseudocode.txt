@@ -1,0 +1,48 @@
+i have a plan
+1 make a computer selection
+2 make a player selection 
+2.5 turn the selections to lower case
+3 make a comparison
+4 give a point to the winner of the comparison
+5 console log the winner and the points
+6 make a loop to play the game to 5 points
+7 finish
+
+
+pseudo code
+
+make the computer selection
+need variables and a function
+
+3 choices rock paper and scissors
+let pc choice = 1 random of the 3
+
+make a player selection
+let player choice = ekis
+
+turn the selections to lower case 
+
+player selection toLowerCase
+pc choice toLowerCase
+
+if player choice = pc choice its draw
+if player choice = rock and pc choice = scissors player wins
+if player choice = rock and pc choice = paper pc wins
+if player choice = scissors and pc choice = paper player wins
+if player choice = scissors and pc choice = rock pc wins
+if player choice = paper and pc choice = rock player wins
+if player choice = paper and pc choice = scissors pc wins
+
+if player wins +1 point 
+if pc wins +1 point
+if draw no points
+
+console log "you win this round you have x points and pc has x
+console log "you lose this round you have x points and pc has x
+
+if player reach 5 points console los "you win!!"
+if pc reachs 5 points console log "you lose wtf bro"
+
+if player or pc has < 5 points keep looping the game unitl one won
+
+eat something
